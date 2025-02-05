@@ -44,7 +44,7 @@
     "site_lang": "en",
     "imageResize": false,
     "uniqCompNum": 2,
-    "versionPublish": "5.9.27",
+    "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/apple-touch-icon-128x128.png",
     "usedWebp": true,
